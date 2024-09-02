@@ -1,0 +1,431 @@
+# espanso match file
+
+# For a complete introduction, visit the official docs at: https://espanso.org/docs/
+
+# You can use this file to define the base matches (aka snippets)
+# that will be available in every application when using espanso.
+
+# Matches are substitution rules: when you type the "trigger" string
+# it gets replaced by the "replace" string.
+matches:
+  # Simple text replacement
+  - trigger: ":espanso"
+    replace: "Hi there!"
+
+
+######################################################################     
+######################################################################
+
+          
+
+
+
+          
+# Sexting messages
+
+
+     #Generic sexting messages
+
+
+  - trigger: ":sext"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - Are you up for some night fun rn, baby?🥰
+          - what are you doing right now, babe?? 🥺
+          - I'm in the mood to play now baby, will you play with me?😈😈
+          - I have a game for us to play, babe 🥰
+          - Let's do sexting babe! 🥺
+          - What would you do if you were here with me right now?
+          - Did you see my last message?🥺
+          - I'm trying to cum but I'm having a hard time...will you sext with me babe? 🥺
+          - How's your day, babe? 🥰
+          - doing good babe? 😊
+          - Let's have some fun for $20??😏
+          - I’ve been naughty today and probably deserve a spanking 🍑😈
+          - What's keeping you busy babe? 🥵
+          - Shall we do something fun!?😇
+          - Hi babe, would you like to have a little fun?😏
+          - Do you want to experience my dirty mouth?👅😈
+          - Do you want to see my pussy and rate it?🥵
+          - wanna see me getting fucked?
+          - Just wondering if you could handle the naughtiness I feel right now.. 👅
+          - I'm soaking wet rn 💦💦💦 want some proof? 😈
+          - If I spread my legs for you, baby. Which hole are you going to eat first? 😻🍑
+          - I have something special for you here babe 😻 I think you going to like it! Wanna see?
+          - i have something hot and new FOR YOU mmm 🤭😈 ready to see it?
+          - I can't stop playing with my pussy today, wanna help?💦
+          - Do you love surprises?
+          - Need some help with 💦💦??
+          - Are you alone and horny? I am 🥵
+          - Can I send you something naughty babe?? 😈
+          - Do you like when I talk dirty to you babe? 🥵
+          - Can I share a secret with you? 😘
+          - Are you alone & horny? 👅
+          - What's on your mind today babe? 🥰
+          - How can I help you relax? 😏
+          - tell me what you wanna do to me, babe 💦🥺
+          - Hey are you on??? I'm SO horny rn... wanna help me cum? 😈
+          - How badly do you want my pussy baby? 😈 Because you're all that it's waiting for💦
+          - Do u think u can handle me tonight babe? 😈
+          - Can you bend me over and spank my ass? 🙈
+          - I can't stop playing with my pussy 💦 Wanna see it babe? 🐱
+          - Would you rather watch me cum or watch me make someone else cum?? 😈
+          - Can I drain your balls? 😋
+          - how many rounds do you think you could do with me? 😈😋
+          - Are you ready to have fun rn so that we can play together?
+          - What do you want to do tonight?😈😏
+          - Hey babe are you on?? I miss you 🥺
+          - Is your cock hard rn? 😍
+          - babe is your cock out? 😈
+          - Ready to spend an amazing time with me? 😘
+          - I’m so creamy right now, wanna see?? 🤭
+          - Babe can I help you with that morning wood 😈
+          - Pull your cock out babe I want to show you something 😏
+          - Are you jerking off right now babe? 😈
+          - Should I spread both holes for you or do you want to see me cum?
+          - I've been so horny lately. Wanna see the video I just made?? 🥵
+          - Would you rather see my 18 year old content or my most recent content that I’ve made??
+          - Wanna sext babe?
+          - Are you online babe? I’m so wet right now 💦
+          - Would you eat me as an appetizer if we went out for dinner? Or am I your dessert? 🤭
+          - Are you longing to see something that you can have fun jerking off to?😋
+          - Are you holding your cock or you are stroking it?    
+          - Would you rather see my 🐱 close ups or a nude twerking video?          
+          - Are you in the mood to sext babe?? ❤️‍🔥          
+          - I removed everything, and now that snack is ready, dive in while it's still hot. Should i serve it right now babe? 😼🍒🍑          
+          - Do you want to see what’s underneath my outfit? 👙😈          
+          - Do you have any plans for later, or do you intend to remain here?👅          
+          - Babe, what do you think my best feature is??          
+          - What kind of content would make you nut rn? 💦          
+          - Do you have any fetishes? 🤔          
+          - Pick one: A. 🍒 B. 🍑 C. 🐱 D. 🐱🍆💦          
+          - I'm horny babe, wanna sext? 👅          
+          - Don't leave me on read, baby. 🥺          
+          - I got a new toy, you wanna see it? 😈          
+          - Going Live in a couple hours, what will you be doing? It would mean the world to be if you were there 🥺          
+          - Hey babe have you spun my spin the wheel for this month yet? 💋      
+          - what are you up to right now baby? i just finished editing some hot videos i shot this morning, wanna play 😈    
+
+
+
+
+
+
+     #sub responses
+
+
+  - trigger: ":sub"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - hey ! thanks for subbing, I'm curious to know more about you! for example, are you a tits man or an ass man hehe 😘
+          - hey ! i just got your sub notification and was wondering if you have any fetishes? 😈 im into a lot so we prob share some interests~
+          - 
+          - 
+
+
+
+
+
+
+
+     #unlock responses
+
+
+
+  - trigger: ":unlock"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - omg tyyy i love when you unlock my stuff baby it makes me so hot 🥵 its like i can feel your eyes on me hehe, what else do you wanna see baby?
+          - baby!! tysm for the unlock, youre so sweet 😚 please tell me what you thought, i love knowing youre looking at my body hehe
+          - omg im sorry i missed this notification!! tysm for the unlock baby 🥵 i love knowing youre looking at me, what else do you wanna see baby?
+          - 
+          - 
+
+   
+
+
+
+     #text only sexting
+
+
+  - trigger: ":textonly"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - tbh i usually send pics and videos but i also love to just type! if you wanna sext w/ me, tip me  and ill focus on you for a whole hour baby 😈
+          - okay so i normally send pictures and videos but i also love just texting! tip me  and let's play for an hour straight 😈
+          - 
+          - 
+
+
+     
+     
+     
+     
+     #what are you doing right now?
+
+
+  - trigger: ":wyd"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - what are you doing right now baby? im bored, wanna play with me? 😘
+          - what are you up to right now baby? i just finished editing some hot videos i shot this morning, wanna play 😈
+          - 
+          - 
+
+
+
+
+
+     
+     #what would you do if
+
+
+  - trigger: ":wwyd"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - what would you do to me if you were here in bed with me baby 😈
+          - what would you do if you were here in the bathroom w me baby 😈
+          - 
+          - 
+
+
+
+     
+     
+     
+     #work questions
+
+
+  - trigger: ":work"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - what do you do for work baby? do you like it?
+          - are you at work rn baby? i have something special for u but i dont want anyone else to see it haha 🤭
+          - are you working right now baby? here's a little something special for your lunch break if you get bored hehe 🤭
+          - 
+          - 
+
+
+
+
+
+     #you dont buy content
+
+  - trigger: ":dontbuy"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - i noticed you never unlock any of my stuff baby 🥺 do you not like what i send you 
+          - 
+          - 
+          - 
+
+
+
+
+
+     #what's your budget?
+
+
+
+  - trigger: ":budget"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - whats your budget baby? id love to work w u so we can have fun together 🥰
+          - i understand! whats your budget right now? i can work w/ u, i just love playing and id be sad if that got between us 🥰
+          - 
+          - 
+
+
+
+
+
+
+
+     #where are you right now 
+
+
+  - trigger: ":where"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - where r u right now babe? im in bed being lazy hehe 🤭 im kinda horny rn if youre free to sext w meee 😘
+          - where r u right now babe? im in the bathroom getting ready to take a shower if u wanna sext with me hehe
+          - 
+          - 
+
+
+
+
+
+     #fansly specific
+
+
+  - trigger: ":fansly"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - yeah i just switched to here! its a nicer experience on my side and the guys on the other platforms are just really rude and mean a lot of the time tbh 🥲
+          - yes i liked the other platform too (not allowed to type it haha) but the guys on there are often rude and mean to me and the people on fansly are much nicer 🥰
+          - omg ty!! i know its a pain to switch platforms so i really appreciate you subbing to me here 🥰
+          - wow thank you for switching for me baby!! i hate making new accounts for every little thing so i appreciate u doing that just to talk to me 🥰
+          - 
+          - 
+
+
+
+
+
+     #good morning
+
+
+  - trigger: ":gm"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - good morning babyyy i slept so good last night wby? i woke up kinda horny tbh haha 🤤
+          - are you touching yourself this morning like i am 🙈 i hope u dont have to work today cause im in a distracting mood 🥰
+          - Let's do morning sexting baby? 😈🙈
+          - 
+          - 
+
+
+     #good afternoon
+
+
+  - trigger: ":ga"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - good afternoon babyyy how was your morning?
+          - are you touching yourself this afternoon like i am 🙈 i hope u dont have to work today cause im in a distracting mood 🥰
+          - 
+          - 
+
+
+
+     #dick pic 
+
+  - trigger: ":dp"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - omg is that a dick pic baby? i havent opened it yet, i wanna shoot a custom dick rate video for you babe 😈 
+          - send me your dick, I wanna rate it 😉
+          - tip 25 and ill record my live reaction rn, i have my camera app open 🥵
+          - Text dick rating?? 💦 Send me your best dick pics now babe 🍆
+          - 
+          - 
+
+
+
+
+     #shower
+     
+  - trigger: ":shower"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - i took a special little clip in the shower this morning for you baby hehe, i wanted to get all clean for you 🤤
+          - 
+          - 
+          - 
+
+
+
+
+     #sorry for the wait!
+     
+  - trigger: ":sftw"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - sorry for the wait baby my internet went out! but i fixed it im back now!
+          - sorry baby had to open the door for a worker!
+          - 
+          - 
+
+     
+     
+
+
+
+     #what kind of content
+
+  - trigger: ":content"
+    form: |
+      [[choices]]
+    form_fields:
+      choices:
+        type: list
+        values:
+          - what kind of content do you wanna see from me baby? 😘 I have solo, masturbation, stripping, gg, bg, foursomes, orgies, pretty much everything at this point haha 😝
+          - btw baby, whats your fav content youve seen from me 😘 
+          - 
+          - 
+
+
+
+
+
+
+
+
+              
+

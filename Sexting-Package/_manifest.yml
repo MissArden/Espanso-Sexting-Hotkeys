@@ -1,5 +1,5 @@
 name: "Sexting-Package"
 title: "Sexting Package"
-description: An example package to show how to host Espanso packages
+description: A chatting team can use the hotkeys included in this Espanso package to quickly bring up sexting options based on defined triggers like ":sext" (w/o quotes)!
 version: 0.1.0
-author: Federico Terzi
+author: Miss Arden
