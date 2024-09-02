@@ -1,15 +1,57 @@
-# Espanso External Repo Template
+# Set-up
 
-This is a template repository you can use as a starting point to host
-your Espanso packages outside the Hub.
+After you've installed Espanso (https://espanso.org/install/), 
 
-In general, this template should be used if you plan to share your packages
-privately, for example with your company's team.
 
-If you plan to publish your packages publicly, we highly recommend
-publishing them inside the [Espanso Hub](https://github.com/espanso/hub) instead.
+
+Once you have Espanso installed, and Sexting.yml is placed in the match file path,
+you will be able to use the "triggers" to bring up a list of options for you to use in that situational trigger!
+
+
+
+
+
+## Espanso Sexting Package info
+
+
+Hi, I'm Miss Arden!
+
+I joined Aaron's chatting team in August 2024 and found our system lacking.
+
+I would often find myself staring at a customer's message, unsure of how to respond. 
+
+There are several different situations that require common responses, and I've tried to identify the major ones here.
+
+
+
+
+
+
+
+
+
+
+
+### How to use
+
+
+
+*Common sexting scenarios*
+
+
+- You are trying to reignite a sexting conversation
+
+- There is a new subscription
+
+- A customer was left on read or forgotten about
+
+- A customer hasn't bought anything in a while
+
+- A customer needs to know what content a girl has
+
+- 
+
+
 
 ## Usage
 
-For more information about customizing the repository and using it, please
-visit the documentation: https://espanso.org/docs/next/packages/basics/
